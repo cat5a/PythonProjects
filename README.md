@@ -1,2 +1,2 @@
 # PythonProjects
-My various Python Projects, more stuff coming aoon
+My various Python Projects, more stuff coming soon
